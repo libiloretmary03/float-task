@@ -1,0 +1,26 @@
+.main {
+    height: 370px;
+    width: 50%;
+    background-color: rgb(255, 0, 174);
+    float: left;
+    background-image: url(flamingo.jpg);
+    background-size: cover; 
+   
+   
+   
+}
+
+.one{
+    color: rgb(32, 160, 30);
+    width: 49.8%;
+    float: right;
+    height: 370px;
+    text-align: justify;
+    font-style: italic;
+}
+.two{
+    color: rgb(65, 11, 83);
+    clear: both;
+    text-align: justify;
+    font-style: oblique;
+}
